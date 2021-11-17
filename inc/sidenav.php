@@ -32,7 +32,7 @@
       <a class="m-bar-item m-button " href="/python/Variables.php" style="padding-top:3px">
         Variables
       </a>
-      <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
+      <!-- <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
         Operators
       </a>
       <a class="m-bar-item m-button " href="/python/UserInput.php" style="padding-top:3px">
@@ -64,10 +64,10 @@
       </a>
       <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
         String Formatting
-      </a>
+      </a> -->
     </div>
 
-    <div class="m-container " style="padding:5px;">
+    <!-- <div class="m-container " style="padding:5px;">
       <h4 class="m-margin-top" style="padding:2px">
         <strong>JavaScript</strong>
       </h4>
@@ -119,7 +119,7 @@
     </a>
     <a class="m-bar-item m-button " href="/index.php" style="padding-top:3px">
       For Loop
-    </a>
+    </a> -->
   </div>
   </div>
 </nav>
