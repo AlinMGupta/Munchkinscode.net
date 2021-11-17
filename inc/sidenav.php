@@ -1,4 +1,4 @@
-<nav class="m-sidebar m-collapse m-white m-card-2" id="mySidenav">
+<!-- <nav class="m-sidebar m-collapse m-white m-card-2" id="mySidenav">
   <div class="m-bar-block">
     <div class="m-container" style="padding:5px;">
       <h4 class="m-margin-top" style="padding:2px">
@@ -32,7 +32,7 @@
       <a class="m-bar-item m-button " href="/python/Variables.php" style="padding-top:3px">
         Variables
       </a>
-      <!-- <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
+      <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
         Operators
       </a>
       <a class="m-bar-item m-button " href="/python/UserInput.php" style="padding-top:3px">
@@ -64,10 +64,10 @@
       </a>
       <a class="m-bar-item m-button " href="/python/index.php" style="padding-top:3px">
         String Formatting
-      </a> -->
+      </a>
     </div>
 
-    <!-- <div class="m-container " style="padding:5px;">
+    <div class="m-container " style="padding:5px;">
       <h4 class="m-margin-top" style="padding:2px">
         <strong>JavaScript</strong>
       </h4>
@@ -119,7 +119,16 @@
     </a>
     <a class="m-bar-item m-button " href="/index.php" style="padding-top:3px">
       For Loop
-    </a> -->
+    </a>
   </div>
   </div>
-</nav>
+</nav> -->
+<div class="w3-sidebar w3-bar-block" style="width:25%">
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+<div style="margin-left:25%">
+... page content ...
+</div>
