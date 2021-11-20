@@ -1,4 +1,7 @@
 <?php include 'inc/header.php';?>
 <?php include 'inc/sidenav.php';?>
-<h1> Hello World </h1>
+//Title
+<div class="w3-container">
+  <h1> Hello World </h1>
+</div>
 <?php include 'inc/footer.php';?>
