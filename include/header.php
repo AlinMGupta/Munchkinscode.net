@@ -6,7 +6,7 @@
   </head>
   <body>
     <div class="w3-container w3-amber">
-      <h1 class="w3-display-middle">MunchkinsCode</h1>
+      <h1 class="w3-center">MunchkinsCode</h1>
     </div>
     <div class="w3-bar w3-pale-yellow">
       <a href="#" class="w3-bar-item w3-button">Home</a>
