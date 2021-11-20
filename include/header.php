@@ -9,9 +9,9 @@
       <h1 class="w3-center">MunchkinsCode</h1>
     </div>
     <div class="w3-bar w3-pale-yellow">
-      <a href="#" class="w3-bar-item w3-button">Home</a>
-      <a href="#" class="w3-bar-item w3-button">Learn</a>
-      <a href="#" class="w3-bar-item w3-button">Watch</a>
-      <a href="#" class="w3-bar-item w3-button">Play</a>
-      <a href="#" class="w3-bar-item w3-button">About Us</a>
+      <a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-red">Home</a>
+      <a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-red">Learn</a>
+      <a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-red">Watch</a>
+      <a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-red">Play</a>
+      <a href="#" class="w3-bar-item w3-button w3-mobile w3-hover-red">About Us</a>
     </div>
